@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with my studies
 - 📫 How to reach me:
     Twitter: @joandersonso
-    Discord: JoJo#1000
+    Discord: JoJo#0564
 
 <!---
 Joandersonso/Joandersonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
